@@ -1,0 +1,15 @@
+dwa\a2\CookieLogoutServlet.class
+dwa\Initialization.class
+dwa\a1\PrivateMessage.class
+dwa\a2\SessionLogoutServlet.class
+dwa\a1\MessagesServlet.class
+dwa\a2\SessionLoginServlet.class
+dwa\a2\UrlRewriteLogoutServlet.class
+dwa\a3\PrivateMessagesServlet.class
+dwa\a2\CookieLoginServlet.class
+dwa\a2\UrlRewriteLoginServlet.class
+dwa\a1\CommandServlet.class
+dwa\a1\LoginServlet.class
+dwa\a1\RegisterServlet.class
+dwa\a4\GetPrivateMessageServlet.class
+dwa\Configuration.class
