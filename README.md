@@ -14,7 +14,7 @@
     <user name="admin" password="admin"  
         roles="manager-gui,manager-script" />
     ```
-3. Test your installation:
+3. Testing your installation:
     * start _Tomcat_ with `TOMCAT/bin/startup.sh`
     * with your browser open URL [http://localhost:8080](http://localhost:8080)
     * shutdown _Tomcat_ with `TOMCAT/bin/shutdown.sh`
