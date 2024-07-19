@@ -1,4 +1,4 @@
-# Damn Wulnerable Application
+# Damn Vulnerable Application
 
 
 ## Installation 
